@@ -1,5 +1,5 @@
 # LanguageInterpreter
-This is a haskell program that parses, interprets, and runs an original programing language. The language supports arithmatic and logical expressions and an enviroment with variables as if then else statements and while while loops
+This is a haskell program that parses, interprets, and runs an original programing language. The language supports arithmatic and logical expressions and an enviroment with variables as if then else statements and while loops
 
 
 The folowing is an example of a program written in the original language.
